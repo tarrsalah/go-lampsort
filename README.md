@@ -3,7 +3,6 @@ Leslie Lamport's non-recursive quicksort described [here](http://bertrandmeyer.c
 
 ![](http://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 
-
 ```
 go test -bench=.
 PASS
