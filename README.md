@@ -1,5 +1,8 @@
 ## Lampsort
 Leslie Lamport's non-recursive quicksort described [here](http://bertrandmeyer.com/2014/12/07/lampsort/).
+
+![](http://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
+
 ```
 go test -bench=.
 PASS
